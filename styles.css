@@ -1,6 +1,21 @@
 a {
-    text-align: center;
+    target-name:new;
+target-new:tab;
 }
+
+    a:link, a:visited {
+        background-color: #3682f4;
+        color: white;
+        padding: 14px 25px;
+        text-align: center;
+        text-decoration: none;
+        display: block;
+      }
+      
+      a:hover, a:active {
+        background-color: red;
+      }
+
 
 img {
     display: block;
