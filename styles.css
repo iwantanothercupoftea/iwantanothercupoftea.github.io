@@ -1,0 +1,27 @@
+a {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+body {
+    background-color: #0d0d0d;
+}
+
+p {
+    color: white;
+    text-align: center;
+}
+
+pre {
+    color: white;
+    text-align: auto;
+}
+
+h1 {
+    color: #DD546E;
+    text-align: center;
+    }
