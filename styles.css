@@ -1,7 +1,24 @@
-a {
-    target-name:new;
-target-new:tab;
-}
+
+
+#btn {
+    font-family: Courier New;
+    color: #ffffff;
+    font-size: 20px;
+    background: #d10e0e;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    position: relative;
+    top: 50%;
+    left: 840px;
+  }
+  
+  #btn:hover {
+   background-image: url("https://i.imgur.com/1dRiLna.png");
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: cover;
+    text-decoration: none;
+  }
 
     a:link, a:visited {
         background-color: #3682f4;
@@ -14,6 +31,7 @@ target-new:tab;
       
       a:hover, a:active {
         background-color: red;
+        padding: 14px 25px;
       }
 
 
@@ -33,7 +51,7 @@ p {
 
 pre {
     color: white;
-    text-align: auto;
+    text-align: left;
 }
 
 h1 {
